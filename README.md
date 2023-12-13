@@ -20,6 +20,8 @@ Analysis and Visualization
 
 Contact
 
+# Project Highlights
+
 Objective: Harness the power of bike sales data analysis to optimize strategies, pinpoint growth opportunities, and facilitate well-informed decision-making.
 
 Key Questions: Uncover pivotal insights through targeted inquiries, guiding the formulation of strategic decisions, fine-tuning sales strategies, and effectively steering business expansion efforts in the bike sales domain.
