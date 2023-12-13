@@ -48,8 +48,6 @@ Excel : Data Moedling and Preprocessing
 
 Python: Pandas, NumPy, and Matplotlib for data cleaning, manipulation, and exploratory analysis.
 
-Power BI: Created an interactive dashboard for data visualization.
-
 Data Sources
 The project utilized a sales dataset available on Kaggle: Sales data analysis dataset
 
