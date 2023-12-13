@@ -1,4 +1,4 @@
-Overview
+#Overview
 Welcome to the Bikes Data Analysis Project!
 
 This bike sales data analysis project seeks to uncover valuable insights from historical data related to bike sales. The objective is to provide actionable information for strategic decision-making, optimizing sales strategies, and identifying growth opportunities in the bike sales domain. The analysis will delve into key metrics, customer behavior, and product performance, fostering a data-driven approach to enhance overall business performance and drive success in the bike sales market.
@@ -7,10 +7,10 @@ This bike sales data analysis project seeks to uncover valuable insights from hi
 
 
 
-Table of Contents
+#Table of Contents
 Project Highlights
 
-Key Insights
+#Key Insights
 
 Male purshase bikes more than female 
 
