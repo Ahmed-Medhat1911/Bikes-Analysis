@@ -18,6 +18,9 @@ Data Sources
 
 Analysis and Visualization
 
+Power BI Visualization: Power BI Sales Dashboard
+
+
 Contact
 
 # Project Highlights
@@ -48,11 +51,18 @@ Excel : Data Moedling and Preprocessing
 
 Python: Pandas, NumPy, and Matplotlib for data cleaning, manipulation, and exploratory analysis.
 
-Data Sources
-The project utilized a sales dataset available on Kaggle: Sales data analysis dataset
+Power BI: Created an interactive dashboard for data visualization.
 
-Analysis and Visualization
+
+Data Sources
+The project utilized a sales dataset available on Kaggle: Bikes data analysis dataset
+
+# Analysis and Visualization
+
 Google Colab Notebook report with comprehensive data cleaning, manipulation, and analysis.
+
+Power BI dashboard for interactive data exploration.
+
 
 # Contact
 For inquiries and collaboration opportunities, please contact:
